@@ -399,5 +399,5 @@ For questions and support:
 - Email: vk0046@uah.edu
 
 ## Citation
-
+Kolluru, V. (2025). Sentinel SAR Data Processing Package (Version 0.1.0) [Computer software]. GitHub. https://github.com/venkateshkolluru95/Sentinel-SAR-data-processing-package
 ```
