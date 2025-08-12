@@ -19,3 +19,40 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+THIRD-PARTY COMPONENTS AND ACKNOWLEDGMENTS
+================================================================================
+
+This software includes components from the following projects:
+
+1. RTC (Radiometric Terrain Correction) Component
+   Copyright (c) 2021 California Institute of Technology ("Caltech")
+   U.S. Government sponsorship acknowledged.
+   Used under permissive license terms.
+   Source: https://github.com/opera-adt/RTC
+
+2. GDAL (Geospatial Data Abstraction Library)
+   Licensed under X/MIT License
+   Source: https://gdal.org/
+
+3. Rasterio
+   Licensed under BSD License
+   Source: https://github.com/rasterio/rasterio
+
+4. NumPy
+   Licensed under BSD License
+   Source: https://numpy.org/
+
+5. Other Python packages as specified in requirements.txt
+   Each retains its respective license terms.
+
+For complete license terms of third-party components, please refer to their
+respective repositories and documentation.
+
+ACKNOWLEDGMENTS:
+- Alaska Satellite Facility (ASF) for Sentinel-1 data access
+- NASA Earthdata for data distribution infrastructure
+- SRTM Data providers for digital elevation models
+- NASA's Jet Propulsion Laboratory (JPL) OPERA Algorithm Development Team
+- California Institute of Technology for algorithm development and support
